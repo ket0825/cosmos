@@ -1,0 +1,22 @@
+ckpt_review/model/pytorch_model.bin
+ckpt_review/model/meta.bin
+
+# Default ignored files
+.idea/shelf/
+.idea/workspace.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests/
+# Datasource local storage ignored files
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea
+
+*.log
+*.json
+*.csv
+*.pyc
+*.jar
+*.png
+*.tar
+*.xml
+*.yaml
